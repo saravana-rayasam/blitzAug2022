@@ -6,11 +6,17 @@
         },
         {
             "path": "base-objects",
-            "default": false
+            "default": false,
+            "package": "Fall_22_package_Testing",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
         }
     ],
     "name": "cohortFall22",
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "55.0"
+    "sourceApiVersion": "55.0",
+    "packageAliases": {
+        "Fall_22_package_Testing": "0Ho5g00000000njCAA"
+    }
 }
